@@ -1,0 +1,418 @@
+PAGE 1 / 72 – COVER
+
+Title: Financial Inclusion Initiative
+
+Footer: All rights reserved. This document is proprietary and confidential.
+
+PAGE 2 / 72 – INTRODUCTION
+
+UPSRLM
+
+Financial Inclusion Initiative
+
+Objective:
+
+SHG सदस्यों को औपचारिक बैंकिंग, बीमा, पेंशन एवं वित्तीय सेवाओं से जोड़ना
+
+Implementation under:
+
+NRLM
+
+Cadre based approach
+
+PAGE 3 / 72 – KEY COMPONENTS
+
+Bank Account
+
+Insurance
+
+Pension
+
+Credit linkage
+
+Digital transactions
+
+Financial literacy
+
+PAGE 4 / 72 – INSURANCE CONVERGENCE
+
+सरकारी बीमा योजनाएँ:
+
+PMSBY
+
+PMJJBY
+
+SHG कार्यक्रम के साथ अभिसरण
+
+PAGE 5 / 72 – PMSBY & PMJJBY DETAILS
+PMSBY
+
+दुर्घटना बीमा
+
+कवर:
+
+मृत्यु / पूर्ण विकलांगता – ₹2 लाख
+
+आंशिक विकलांगता – ₹1 लाख
+
+प्रीमियम:
+
+₹20 प्रति वर्ष
+
+पात्रता:
+
+आयु 18–70 वर्ष
+
+PMJJBY
+
+जीवन बीमा
+
+कवर:
+
+सामान्य / दुर्घटना मृत्यु – ₹2 लाख
+
+प्रीमियम:
+
+₹436 प्रति वर्ष
+
+पात्रता:
+
+आयु 18–50 वर्ष
+
+अतिरिक्त नियम
+
+बीमा अवधि:
+
+1 जून से 31 मई
+
+जिस वर्ष प्रीमियम नहीं दिया:
+
+उस वर्ष बीमा लाभ नहीं
+
+PAGE 6 / 72 – पूर्ण एवं आंशिक विकलांगता
+
+पूर्ण विकलांगता:
+
+₹2 लाख
+
+आंशिक विकलांगता:
+
+₹1 लाख
+
+Visual comparison diagram
+
+PAGE 7 / 72
+
+Footer only:
+
+All rights reserved. This document is proprietary and confidential.
+
+PAGE 8 / 72 – IMPLEMENTATION STRATEGY
+
+तीन आयामी रणनीति:
+
+स्टाफ क्षमता वर्धन
+
+कैडर क्षमता वर्धन
+
+कैडर को प्रोत्साहन
+
+PAGE 9 / 72 – FL-CRP PROGRAM
+
+FL-CRP कार्यक्रम के तहत प्रगति
+
+Updated data till:
+
+31 March 2022
+
+Total trained FL-CRPs:
+
+2,128
+
+FL-CRPs received toolkits:
+
+1,910
+
+PAGE 10 / 72 – FL-CRP ROLE
+
+ग्राम स्तर पर:
+
+वित्तीय समावेशन गतिविधियाँ
+
+बैंकिंग
+
+बीमा
+
+पेंशन
+
+डिजिटल लेनदेन
+
+PAGE 11 / 72 – MODIFIED FL-CRP POLICY
+
+UPSRLM द्वारा प्रेषित संशोधित नीति
+
+प्रति जनपद:
+
+RSETI – 2 अधिकारी
+
+RRB / FLC – 1 coordinator
+
+Cooperative Bank – 1 व्यक्ति
+
+कुल 4 मास्टर ट्रेनर
+
+PAGE 12 / 72 – TRAINING STRUCTURE
+
+चयन:
+
+एक वर्ष पुराने ब्लॉकों से
+
+प्रशिक्षण:
+
+RSETI / FLC
+
+6 दिवसीय
+
+ग्राम स्तर पर:
+
+3 CRP की टीम
+
+PAGE 13 / 72 – INSURANCE CLAIM PROCESS
+
+दुर्घटना / मृत्यु की स्थिति:
+
+FIR (Police station)
+
+Post-mortem report
+
+समय:
+
+7–8 दिन
+
+दस्तावेज:
+
+मृतक का आधार
+
+बैंक पासबुक
+
+Nominee विवरण
+
+बैंक शाखा से:
+
+Nominee verification
+
+सूचना:
+
+30 दिन के भीतर बैंक को
+
+PAGE 14 / 72
+
+Footer:
+
+All rights reserved. This document is proprietary and confidential.
+
+PAGE 15 / 72 – ONLINE LINKS
+
+PMSBY Portal:
+
+https://portal.uiic.in/GCWebPortal/convpmsby/first.do
+
+PMSBY (New India):
+
+https://pmsby.newindia.co.in/frmCustomer.aspx
+
+PAGE 16 / 72
+
+Image slide (insurance portals screenshots)
+
+PAGE 17 / 72 – HEALTH SCHEME
+
+प्रधान मंत्री जन आरोग्य योजना
+
+UPSRLM branding
+
+PAGE 18 / 72
+
+Image-only slide
+
+PAGE 19 / 72
+
+Image-only slide
+
+PAGE 20 / 72
+
+Footer only
+
+PAGE 21–47 / 72
+
+(Process explanation slides – text + screenshots)
+
+Topics include:
+
+FL-CRP onboarding
+
+Insurance enrollment
+
+MIS reporting
+
+Bank coordination
+
+Village camps
+
+Data submission to BMM/DMM
+
+PAGE 48 / 72 – POLICY RECAP
+
+संशोधित FL-CRP नीति
+
+Training structure reiterated
+
+District-wise deployment
+
+PAGE 49–57 / 72 – SYSTEM ACCESS
+
+User creation
+
+Language selection:
+
+Hindi mandatory
+
+OTP verification on registered mobile
+
+Password rules:
+
+@#$%^&*() allowed
+
+PAGE 58 / 72 – ADD USER
+
+User जोड़ने के बाद:
+
+Role assign – FL-CRP
+
+Category – Financial Inclusion
+
+Operate for – Saksham
+
+PAGE 59 / 72 – ASSIGN ROLE
+
+DMM mapping responsibilities
+
+User ID to villages mapping
+
+PAGE 60 / 72 – ASSIGN OPERATING AREAS
+
+Menu:
+
+Assign Operating Areas
+
+Fields:
+
+District
+
+Category – Financial Inclusion
+
+Operate for – Saksham
+
+Block
+
+Login ID
+
+GP → Village mapping
+
+Save button
+
+PAGE 61 / 72 – SAKSHAM APP LOGIN
+
+Login using:
+
+User ID
+
+Password
+
+MPIN:
+
+4 digit (example: 3240, 1280)
+
+PAGE 62 / 72 – DASHBOARD
+
+Dashboard options:
+
+Baseline
+
+Training
+
+Evaluation
+
+Reports
+
+PAGE 63 / 72 – BASELINE SURVEY (1/4)
+
+Location selection:
+
+Block
+
+Gram Panchayat
+
+Village
+
+PAGE 64 / 72 – BASELINE SURVEY (2/4)
+
+Household-wise data entry
+
+PAGE 65 / 72 – BASELINE SURVEY (3/4)
+
+Questions listed:
+
+कितने सदस्य हस्ताक्षर करते हैं?
+
+कितनों ने पिछले 3 माह में बैंक लेनदेन किया?
+
+कितनों ने बचत की?
+
+कितनों ने SHG से ऋण लिया?
+
+कितनों पर अन्य स्रोत से ऋण बकाया?
+
+PMJJBY नामांकन?
+
+PMSBY नामांकन?
+
+स्वास्थ्य बीमा?
+
+पेंशन स्कीम?
+
+BC point पर लेनदेन?
+
+PAGE 66 / 72
+
+Continuation of baseline questions
+
+PAGE 67–71 / 72
+
+Training module tracking
+
+Monthly reports
+
+Group-wise performance
+
+Module completion status
+
+PAGE 72 / 72 – REPORTS
+
+Reports button:
+
+FL-CRP / CLF activities
+
+Monthly view:
+
+Total days
+
+Total SHGs
+
+Total members
+
+Module-wise training status
+
+Footer
+
+उत्तर प्रदेश राज्य ग्रामीण आजीविका मिशन

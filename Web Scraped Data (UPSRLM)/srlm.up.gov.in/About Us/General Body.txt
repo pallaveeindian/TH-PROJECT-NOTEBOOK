@@ -1,0 +1,30 @@
+General Body
+Home|About Us|General Body
+S.N.	NAME OF MEMBERS	DESIGNATION
+ 	Chief Secretary, Govt. of Uttar Pradesh	President
+ 	Agriculture Production Commissioner, Govt. of Uttar Pradesh	Vice President
+ 	Principal Secretary, Rural Development, Govt. of Uttar Pradesh	Member
+ 	Principal Secretary, Agriculture, Govt. of Uttar Pradesh	Member
+ 	Principal Secretary, Panchayati Raj, Govt. of Uttar Pradesh	Member
+ 	Principal Secretary, Animal Husbandry, Govt. of Uttar Pradesh	Member
+ 	Principal Secretary, Labor,  Govt. of Uttar Pradesh	Member
+ 	Principal Secretary, Education,  Govt. of Uttar Pradesh	Member
+ 	Principal Secretary, Small Industries,  Govt. of Uttar Pradesh	Member
+ 	Principal Secretary, LD&WR,  Govt. of Uttar Pradesh	Member
+ 	Principal Secretary, Finance,  Govt. of Uttar Pradesh	Member
+ 	Principal Secretary, Women & Child Development,  Govt. of Uttar Pradesh	Member
+ 	Principal Secretary, Public Health and Family Welfare,  Govt. of Uttar Pradesh	Member
+ 	Principal Secretary, Social Welfare,  Govt. of Uttar Pradesh	Member
+ 	Principal Secretary, Institutional Finance,  Govt. of Uttar Pradesh	Member
+ 	Director, Agriculture, Govt. of Uttar Pradesh	Member
+ 	Director, Panchayati Raj, Govt. of Uttar Pradesh	Member
+ 	Director, Women & Child Development,  Govt. of Uttar Pradesh	Member
+ 	Director, Social Welfare,  Govt. of Uttar Pradesh	Member
+ 	Special Secretary, Finance, Govt. of Uttar Pradesh	Member
+ 	Director, Animal Husbandry, Govt. of Uttar Pradesh	Member
+ 	Director, Institutional Finance, Govt. of Uttar Pradesh	Member
+ 	Director General, DDU, SIRD	Member
+ 	Director, Institute of Entrepreneurship Development, UP	Member
+ 	General Manager, Bank of Baroda & Convener SLBC, UP	Member
+ 	Deputy General Manager, NABARD	Member
+ 	Commissioner, Rural Development, Govt. of Uttar Pradesh	Member

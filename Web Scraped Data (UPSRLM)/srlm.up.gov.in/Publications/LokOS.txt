@@ -1,0 +1,747 @@
+PAGE 1 / 40 – COVER PAGE
+
+Title
+
+LoKOS Application
+
+Sub-title
+
+By State Mission Management Unit (UPSRLM)
+
+Logos
+
+Deendayal Antyodaya Yojana – NRLM logo (top)
+
+UPSRLM / PRERNA logo (top)
+
+Left Vertical Branding
+
+LoKOS
+
+CBO Mobile Application
+
+PAGE 2 / 40 – CONTENT OUTLINE
+
+A – What is LokOS ?
+
+B – Use of LokOS
+
+C – Roll out plan
+
+D – LokOS web Module
+
+E – LokOS Mobile application
+
+PAGE 3 / 40 – A: WHAT IS LOKOS? (PART 1)
+
+Heading
+
+A – What is LokOS ?
+
+Description
+
+Integrated solution for SHGs and their federations
+
+Register members, create CBOs and capture & validate their information
+
+Manage operations such as:
+
+Attendance
+
+Savings
+
+Loans disbursal
+
+Repayments
+
+Book-keeping
+
+Other financial activities
+
+Seamless interface with existing NRLM applications
+
+Respective CBOs and members can view their data:
+
+On the app
+
+Through social media applications
+
+PAGE 4 / 40 – A: WHAT IS LOKOS? (PART 2)
+
+Single source of up-to-date and validated data for SRLM
+
+Detailed analytics on data:
+
+Dashboards
+
+Interactive charts
+
+Drillable spatial maps
+
+Monitor performance of:
+
+CBOs
+
+SHG members
+
+Joint or individual enterprises
+
+Livelihood activities
+
+Take immediate actions
+
+Plan targeted interventions
+
+PAGE 5 / 40 – A: WHAT IS LOKOS? (PART 3)
+
+Channel to share data with:
+
+Other departments
+
+Financial Institutions (FIs)
+
+Service providers
+
+Ensure coverage of member households under eligible schemes
+
+Provide access to:
+
+Affordable credit
+
+Insurance
+
+Payment services
+
+SHG enterprises can get better access to:
+
+Other players in their value chain
+
+Markets
+
+PAGE 6 / 40 – A: WHAT IS LOKOS? (PART 4 + DIAGRAM)
+
+Conceptual Points
+
+Women Empowerment
+
+Providing livelihood opportunities
+
+Exposing credit worthiness of SHG women to external agencies
+
+Allowing benefits inflow
+
+Platform ready for interventions to reach needy rural poor
+
+Digital book-keeping:
+
+Clean records
+
+Grading
+
+Statutory compliance
+
+Members can know financial status through phones
+
+Process Blocks Shown
+
+Maker–Checker / Approvals
+
+Create CBOs
+
+On-board Members
+
+Transactions Capture @ Source
+
+eKYC
+
+De-Duplication
+
+Grading / Credit Rating
+
+Central Reports / Dashboards
+
+LokOS (center)
+
+PAGE 7 / 40 – B: USE OF LOKOS
+
+SHG member at the core of the design
+
+Better credit availability:
+
+Easy consent-based integration with other institutions
+
+Leverage existing assets of the Government
+
+Fast and accurate assimilation of data
+
+Easier access to other Government agencies
+
+PAGE 8 / 40 – B: USE OF LOKOS (NEED FOR LOKOS – PART 1)
+
+Problems Identified
+
+Data collection & digitization done at different times
+
+First recorded on paper by Book Keeper
+
+Later digitized at Block or CLF office
+
+No checks on collected data
+
+Erroneous and incomplete data
+
+Transaction data of CBO not digitized
+
+Duplication of CBOs and members
+
+Existing system not scalable
+
+Performance issues
+
+MIS cannot reliably answer questions
+
+Staff rely on own administration methods
+
+CRPs travel to Block office
+
+Late availability of data
+
+No effective decision-making system
+
+Statements
+
+What the problem statement was when LokOS came in…
+
+What we found out was the crux of the problem…
+
+PAGE 9 / 40 – B: USE OF LOKOS (NEED FOR LOKOS – PART 2)
+
+Outcomes Expected
+
+No repeated data entries
+
+Benefits to members and CBOs:
+
+Credit history
+
+Better credit availability
+
+Reporting for Book keepers
+
+Link to Bookkeeper payments
+
+Interface with:
+
+External entities
+
+Service/goods providers
+
+Government departments
+
+Leverage Aadhaar infrastructure
+
+Driving Factors
+
+Data capture at source
+
+Minimal data entry (dropdown based)
+
+Scalable architecture
+
+API-based data exchange
+
+Federated data architecture
+
+Multiple server instances
+
+PAGE 10 / 40 – STAKEHOLDER-WISE BENEFITS
+
+Banks & Financial Institutions
+
+Historical savings & lending data
+
+EMI & payable auto-calculation
+
+Time-relevant data availability
+
+Predictive analytics
+
+UPSRLM
+
+Clean & timely fund data
+
+Group health insights
+
+Fund rotation insights
+
+Input for interventions
+
+Other Government Agencies
+
+Use data for benefits & planning
+
+Data base for VPRP & GPDP
+
+Market access for producer groups
+
+CBO Members & Bookkeepers
+
+Digital bookkeeping
+
+No travel to Block office
+
+Maker-Checker ensures accuracy
+
+Auto-calculated EMIs
+
+Meeting closure only after account match
+
+PAGE 11 / 40 – C: ROLL-OUT PLAN
+
+C – Rollout Plan
+
+PAGE 12 / 40 – POINT PERSON: VO BOOKKEEPER
+
+Role
+
+VO Bookkeeper
+(Community Facilitator / Samooh Sakhi / CRP, etc.)
+
+As SHG e-Bookkeeper
+
+SHG & member profile entry and updates
+
+Capture SHG transactions during meetings
+
+Tasks related to LokOS rollout
+
+As VO e-Bookkeeper
+
+VO profile entry and updates
+
+Capture VO transactions
+
+Update SHG transaction status in VO-EC meeting
+
+Honorarium
+
+As per Samooh Sakhi Policy
+
+PAGE 13 / 40 – POINT PERSON: CLF BOOKKEEPER
+
+Role
+
+CLF Bookkeeper
+(CLF eBK and SHG Transaction Approver)
+
+Responsibilities
+
+CLF profile entry & updates (Android)
+
+Capture CLF transactions (web only)
+
+Verify SHG / VO transaction entries
+
+PAGE 14 / 40 – TRAINING PLAN FOR LOKOS
+
+State Team
+
+Trained by NMMU
+
+All SMMU staff trained by State MIS team
+
+District Team
+
+225 DMMs
+
+75 BMMs
+
+Trained by State team
+
+Block Team
+
+2718 BMMs from 73 districts
+
+Trained by DMMU
+
+Cadre Training
+
+July–August 2022
+
+Numbers:
+
+55,461 Samooh Sakhi + Active Women
+
+29,856 VO bookkeepers
+
+1,632 CLF bookkeepers
+
+Support
+
+Demo app link
+
+Soft copy training repository
+
+PAGE 15 / 40 – D: LOKOS WEB MODULE
+
+D – LokOS web Module
+
+PAGE 16 / 40 – NATIONAL VS STATE LOGIN
+
+Use “National”
+
+Manage NRLM Users
+
+Use “State”
+
+Manage Community Users (SHG, VO, CLF Bookkeepers)
+
+Approve / Reject SHG, VO, CLF profiles
+
+Rules
+
+Prefix for State users:
+
+Example: IUP_ for Uttar Pradesh
+
+Only capital letters allowed in User ID
+
+PAGE 17 / 40 – USERS AT DIFFERENT LEVELS
+
+State
+
+State User Admin
+
+State Thematic User
+
+State Program Manager
+
+District
+
+District User Admin
+
+District Thematic User
+
+District Program Manager
+
+Block
+
+Block User Admin
+
+Block Thematic User
+
+Block Program Manager
+
+PAGE 18 / 40 – USER CREATION
+
+User Management screen shown
+
+Filters:
+
+State
+
+District
+
+Block
+
+Category
+
+Role
+
+Username/Mobile
+
+PAGE 19 / 40 – COMMUNITY USERS (STATE BUTTON)
+
+VO
+
+VO Bookkeeper
+
+SHG Meeting & Transaction Approver
+
+SHG
+
+SHG Bookkeeper
+
+CLF
+
+CLF Bookkeeper
+
+VO Meeting & Transaction Approver
+
+PAGE 20 / 40 – LOGIN FIELDS
+
+Enter Username
+
+Enter Password
+
+Select Role from dropdown
+
+PAGE 21 / 40 – USER ROLE DROPDOWN
+
+Roles Listed
+
+Block Admin
+
+Block Program Manager
+
+Block Thematic User
+
+CLF User (Bookkeeper)
+
+CLF User (VO Trans Approver)
+
+CLF User (SHG Trans Approver)
+
+District Admin
+
+District Program Manager
+
+District Thematic User
+
+National Admin
+
+National Program Manager
+
+National Thematic User
+
+State Admin
+
+State Program Manager
+
+State Thematic User
+
+PAGE 22 / 40 – BLOCK ADMIN USER CREATION
+
+Responsibilities
+
+Create users up to Bookkeeper level
+
+Steps
+
+Select category: SHG / VO / CLF
+
+Select role:
+
+SHG: SHG Bookkeeper
+
+VO: VO Bookkeeper, SHG Trans Approver
+
+CLF: CLF Bookkeeper, VO Trans Approver, SHG Trans Approver
+
+Fill mandatory fields (*)
+
+Click Add Role
+
+Save user details
+
+PAGE 23 / 40 – ADD MORE ROLE
+
+Three-dot action menu:
+
+Change password
+
+Add More Role
+
+Inactive user
+
+Delete user
+
+Click Add More Role
+
+PAGE 24 / 40 – EDIT USER & LINK/UNLINK SHG
+
+Edit User
+
+Only editable fields can be updated
+
+Click Update User
+
+Linked / Unlinked SHG
+
+Search SHG by GP & Village
+
+Link SHG with user
+
+Unlink SHG from user
+
+“+” button to add SHG
+
+PAGE 25 / 40 – BPM LOGIN PROCESS
+
+Steps
+
+Click State
+
+Select role: Block Program Manager
+
+Enter User ID & Password
+
+Eye icon to view password
+
+Forgot Password option
+
+“Keep me logged in” checkbox
+
+Click Login
+
+Purpose
+
+Approval / Rejection
+
+Reports
+
+PAGE 26 / 40 – MY TASK / NOTIFICATION PAGE
+
+Mandatory
+
+“Refresh Duplicate” after mobile upload
+
+Tasks
+
+SHG Profile Verification & Activation
+
+Federation Profile Verification & Activation (VO & CLF)
+
+PAGE 27 / 40 – SHG PROFILE VERIFICATION
+
+BPM verifies SHGs
+
+Search via Filter
+
+Search via SHG list
+
+PAGE 28 / 40 – SHG PROFILE RULE
+
+SHG profile approved only after:
+
+Member approval
+
+Minimum 5 members
+
+Members must be approved first
+
+PAGE 29 / 40 – MEMBER PROFILE VERIFICATION
+
+Member code generated after activation
+
+Verify each member
+
+Check duplication status
+
+Click member name (blue) to activate
+
+PAGE 30 / 40 – MEMBER PROFILE APPROVAL
+
+Minimum one option in De-duplication required
+
+Approved members no longer appear
+
+PAGE 31 / 40 – BPM DASHBOARD
+
+Dashboard view shown
+
+SHG information
+
+Bank status
+
+Transaction status
+
+Savings & lending metrics
+
+PAGE 32 / 40 – SHG PROFILE & FEDERATION
+
+Search & filter SHG / VO / CLF profiles
+
+Verification icons shown
+
+PAGE 33 / 40 – BPM REPORT
+
+Every Cluster In-charge is BMM
+
+Responsible for verifying all SHGs in cluster
+
+PAGE 34 / 40 – MOBILE APP: SHG BOOKKEEPER
+
+SHG Profile
+
+SHG Member Profile
+
+SHG Transactions
+
+PAGE 35 / 40 – MOBILE APP: VILLAGE ORGANIZATION
+
+LokOS CBO Mobile Application
+
+VO functionality
+
+PAGE 36 / 40 – LOKOS APPLICATION COMPONENTS
+
+Heading only
+
+PAGE 37 / 40 – ANDROID MOBILE APP FEATURES
+
+Workflow based:
+
+Bookkeeper enters
+
+Block Manager approves/rejects
+
+Mobile for Bookkeepers, Web for Block users
+
+Record locking during approval
+
+Online & Offline mode
+
+Offline up to 4 meetings
+
+Security:
+
+Username/password
+
+PIN protected
+
+24-hour timeout
+
+PAGE 38 / 40 – WEB APP FEATURES
+
+User management & backend preparation
+
+Minimum data entry:
+
+QR Scan
+
+Aadhaar fetch
+
+Dropdowns
+
+De-duplication:
+
+Potential duplicates
+
+Confirmed duplicates (cannot override)
+
+Regional language:
+
+Select at first login
+
+Switch English / Regional
+
+PAGE 39 / 40 – ROLES
+
+Profile creation & updation – SHG / VO / CLF Bookkeepers
+
+Profile approvals – Block Managers
+
+User creation & SHG allocation – Block Admins
+
+Transaction approvals – SHG Approvers / VO Accountant / CLF Accountants
+
+PAGE 40 / 40 – CLOSING SLIDE
+
+Text
+
+Thank You..
+
+Together WE Achieve More
+
+(Image: Hand writing “Together WE Achieve More” on board)
